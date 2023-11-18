@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finexo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+    <!-- start nav -->
+
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Finexo</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#hom">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#abo">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#ser">Services</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Other Links
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#why">Why Us</a></li>
+                  <li><a class="dropdown-item" href="#tea">Team</a></li>
+                  <li><a class="dropdown-item" href="#fot">Log In</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    <!-- end nav -->
+    <!-- start parent -->
+    <div class="parent">
+        <div class="header">
+            <div class="continer">
+                <!-- <div class="links">
+                    <span class="icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                    <ul>
+                        <li><a href="#" class="active">Home</a></li>
+                        <li><a href="#abo">About</a></li>
+                        <li><a href="#ser">Services</a></li>
+                        <li><a href="#why">Why Us</a></li>
+                        <li><a href="#tem">Team</a></li>
+                        <li><a href="#log">Login</a></li>
+
+                    </ul>
+                </div> -->
+            </div>
+            <div class="content">
+                <div class="text">
+                    <h1>Crypto
+                        Currency</h1>
+                    <p>Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.</p>
+                    <a href="#">Read More</a>
+                </div>
+                <div class="image">
+                    <img src="photo/slider-img.png" alt="">
+                </div>
+            </div>
+            <div class="footer">
+                <ul>
+                    <li class="active"></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- end parent -->
+    <!-- start service -->
+    <div class="service" id="ser">
+        <div class="continer">
+            <h2>Our <span>Service</span></h2>
+            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+        </div>
+        <div class="content">
+            <div class="box">
+                <img src="photo/s1.png" alt="">
+                <h2>Currency Wallet</h2>
+                <p>fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="box">
+                <img src="photo/s2.png" alt="">
+                <h2>Security Storage</h2>
+                <p>fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="box">
+                <img src="photo/s3.png" alt="">
+                <h2>Expert Support</h2>
+                <p>fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using</p>
+                <a href="#">Read More</a>
+            </div>
+        </div>
+        <div class="footer">
+            <button>View All</button>
+        </div>
+    </div>
+    <!-- end service -->
+    <!-- start about -->
+    <div class="about" id="abo">
+        <div class="continer">
+            <h2>About <span>Us</span></h2>
+            <p>Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus</p>
+        </div>
+        <div class="content">
+            <div class="image">
+                <img src="photo/about-img.png" alt="">
+            </div>
+            <div class="text">
+                <h2>We Are Finexo</h2>
+                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All</p>
+                <p>Molestiae odio earum non qui cumque provident voluptates, repellendus exercitationem, possimus at iste corrupti officiis unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam ab omnis quasi expedita.</p>
+                <a href="#">Read More</a>
+
+            </div>
+        </div>
+    </div>
+    <!-- end about -->
+    <!-- start info -->
+    <div class="info" id="why">
+        <div class="continer">
+            <h2>Why Choose <span>Us</span></h2>
+        </div>
+        <div class="content">
+            <div class="box">
+                <img src="photo/w1.png" alt="">
+                <h2>Secure Investment</h2>
+                <p>Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus</p>
+            </div>
+            <div class="box">
+                <img src="photo/w4.png" alt="">
+                <h2>Secure Investment</h2>
+                <p>Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus</p>
+            </div>
+            <div class="box">
+                <img src="photo/w3.png" alt="">
+                <h2>Secure Investment</h2>
+                <p>Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus</p>
+            </div>
+            <div class="box">
+                <a href="#">Read More</a>
+            </div>
+        </div>
+    </div>
+    <!-- end info -->
+    <!-- strat team -->
+    <div class="team" id="tea">
+        <div class="continer">
+            <h2>Our <span>Team</span></h2>
+        </div>
+        <div class="content">
+            <div class="box">
+                <img src="photo/team-1.jpg" alt="">
+                <h2>Joseph Brown</h2>
+                <h3>Front-End</h3>
+                <i class="fa-brands fa-facebook" style="color: black;"></i>
+                <i class="fa-brands fa-facebook-messenger" style="color: black;"></i>
+                <i class="fa-brands fa-twitter" style="color: black;"></i>
+                <i class="fa-brands fa-linkedin" style="color: black;"></i>
+                <i class="fa-brands fa-line" style="color: #000000;"></i>            </div>
+            <div class="box">
+                <img src="photo/team-2.jpg" alt="">
+                <h2>Nancy White</h2>
+                <h3>Back-End</h3>
+                <i class="fa-brands fa-facebook" style="color: black;"></i>
+                <i class="fa-brands fa-facebook-messenger" style="color: black;"></i>
+                <i class="fa-brands fa-twitter" style="color: black;"></i>
+                <i class="fa-brands fa-linkedin" style="color: black;"></i>
+                <i class="fa-brands fa-line" style="color: #000000;"></i>            </div>
+            <div class="box">
+                <img src="photo/team-3.jpg" alt="">
+                <h2>Earl Martinez</h2>
+                <h3>Full-Stack</h3>
+                <i class="fa-brands fa-facebook" style="color: black;"></i>
+                <i class="fa-brands fa-facebook-messenger" style="color: black;"></i>
+                <i class="fa-brands fa-twitter" style="color: black;"></i>
+                <i class="fa-brands fa-linkedin" style="color: black;"></i>
+                <i class="fa-brands fa-line" style="color: #000000;"></i>            </div>
+            <div class="box">
+                <img src="photo/team-4.jpg" alt="">
+                <h2>Josephine Allard</h2>
+                <h3>Mobile-Apliction</h3>
+                <i class="fa-brands fa-facebook" style="color: black;"></i>
+                <i class="fa-brands fa-facebook-messenger" style="color: black;"></i>
+                <i class="fa-brands fa-twitter" style="color: black;"></i>
+                <i class="fa-brands fa-linkedin" style="color: black;"></i>
+                <i class="fa-brands fa-line" style="color: #000000;"></i>            </div>
+        </div>
+    </div>
+    <!-- end team -->
+    <!-- start customer -->
+    <div class="cust">
+        <div class="continer">
+            <h2>What Says our <span>Customers</span></h2>
+        </div>
+        <div class="content">
+            <div class="box">
+                <img src="photo/client1.jpg" alt="">
+                <div class="info">
+                    <h2>Luden</h2>
+                    <i class="fa-solid fa-comments" style="color: #000000;"></i>
+                </div>
+                <div class="inf">
+                    <h4>Magna Aliquq .Ut</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quo voluptas nesciunt ut quam odit expedita eum mollitia necessitatibus vel? Quaerat obcaecati iusto quia explicabo ducimus laborum recusandae eos harum?</p>
+                </div>
+            </div>
+            <div class="box">
+                <img src="photo/client2.jpg" alt="">
+                <div class="info">
+                    <h2>Luden</h2>
+                    <i class="fa-solid fa-comments" style="color: #000000;"></i>
+                </div>
+                <div class="inf">
+                    <h4>Magna Aliquq .Ut</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quo voluptas nesciunt ut quam odit expedita eum mollitia necessitatibus vel? Quaerat obcaecati iusto quia explicabo ducimus laborum recusandae eos harum?</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end customer -->
+    <!-- start footer -->
+    <div class="footer-two" id="fot">
+        <div class="continer">
+            <div class="box">
+                <h2>Adress</h2>
+                <h3><i class="fa-solid fa-location-dot" style="color: #ffffff;"></i>Loction</h3>
+                <h3><i class="fa-solid fa-phone" style="color: #ffffff;"></i>call+01 123456789</h3>
+                <h3><i class="fa-solid fa-envelope" style="color: #ffffff;"></i>mial@gmail.com</h3>
+                <i class="fa-brands fa-facebook" style="color: white;"></i>
+                <i class="fa-brands fa-facebook-messenger" style="color: white;"></i>
+                <i class="fa-brands fa-twitter" style="color: white"></i>
+                <i class="fa-brands fa-linkedin" style="color:white;"></i>
+                <i class="fa-brands fa-line" style="color: white;"></i>  
+            </div>
+            <div class="box">
+                <h2>Info</h2>
+                <p>necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful</p>
+
+            </div>
+            <div class="box">
+                <h2>Links</h2>
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Services</a>
+                <a href="#">Why Us</a>
+                <a href="#">Team</a>
+            </div>
+            <div class="box">
+                <h2>Subscripe</h2>
+                <input type="text" placeholder="Enter Email">
+                <input type="button" value="Subscripe">
+            </div>
+        </div>
+    </div>
+    <!-- end footer -->
+    <!-- start end  -->
+    <div class="end">
+        <p>
+
+            © 2023 All Rights Reserved. By HTML Design
+            </p>
+            <p>By Omar Rehan</p>
+    </div>
+    <!-- end end -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    
+</body>
+</html>
